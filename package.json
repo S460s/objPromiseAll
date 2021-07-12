@@ -1,0 +1,22 @@
+{
+  "name": "obj-promise-all",
+  "version": "1.0.0",
+  "description": "Object support for Promise.All",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S460s/objPromiseAll.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "S460",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S460s/objPromiseAll/issues"
+  },
+  "homepage": "https://github.com/S460s/objPromiseAll#readme"
+}
