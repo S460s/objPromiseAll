@@ -1,6 +1,6 @@
 {
   "name": "obj-promise-all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object support for Promise.All",
   "main": "index.js",
   "scripts": {
